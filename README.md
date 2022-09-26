@@ -3,6 +3,7 @@
 
 ## 操作
 W,A,S,D - 上下左右
+<br>
 Space - 放置炸彈
 
 ## 道具
@@ -12,4 +13,4 @@ Space - 放置炸彈
 * 黃色 -> 提升炸彈爆炸的範圍
 
 ## 遊玩畫面
-![](https://github.com/michael54856/Angle-Slayer/blob/main/ReadmeImage/warning.png)
+![](https://github.com/michael54856/BomberMan-Online-FourPlayers/blob/main/run.png)
